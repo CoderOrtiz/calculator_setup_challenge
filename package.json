@@ -1,0 +1,23 @@
+{
+  "name": "calculator_setup_challenge",
+  "version": "1.0.0",
+  "description": "Making a Backend Calculator Application ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderOrtiz/calculator_setup_challenge.git"
+  },
+  "author": "Daniel Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoderOrtiz/calculator_setup_challenge/issues"
+  },
+  "homepage": "https://github.com/CoderOrtiz/calculator_setup_challenge#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
