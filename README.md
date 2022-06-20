@@ -28,6 +28,7 @@ In this mini-challenge, I created a server using my local computer using Express
 This mini challenge was a lot of fun and I really appreciated learning about Node.JS, Express, and some of what they can do. This challenge also came with a lot of review of commands one can uses within the Terminal. This was a nice refresher as this is the first-time commands are discussed within the Terminal within this course. My only final thoughts are that I am excited to learn more about Node.JS, Express, and more of backend applications. 🙂
 
 
-![webpage snapshot](/calculator_setup_challenge/images/img1.png)
-![webpage snapshot](/calculator_setup_challenge/images/img2.png)
+![webpage snapshot](./images/img1.png)
+![webpage snapshot](./images/img2.png)
+
 
